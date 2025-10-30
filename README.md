@@ -49,5 +49,6 @@ This will print the outcomes of all six validations and write a summary to `ecn_
 ## Citation
 
 If this code aids your research, please cite the ECN manuscript:
+
 Jiao, D. (2025). Elliptic cortical networks: A mathematically constrained architecture for biologically-inspired intelligence. Neurocomputing, 658, 131802. https://doi.org/10.1016/j.neucom.2025.131802
 
